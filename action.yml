@@ -1,4 +1,4 @@
-name: 'Greeting Action'
+name: 'Greeting HW Action'
 description: 'Says hello to the provided name'
 author: 'YourName'
 inputs:
